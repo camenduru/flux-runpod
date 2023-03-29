@@ -2,6 +2,8 @@
 
 ### Text to Video Zero
 
+Please use with more than 20GB GPU
+
 https://runpod.io/gsc?template=fvddsynfnn&ref=iqi9iy8y
 
 ```py
