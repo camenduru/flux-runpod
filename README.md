@@ -15,7 +15,7 @@ https://github.com/black-forest-labs/flux
 https://blackforestlabs.ai/
 
 ### 🖼 Output
-![image](https://github.com/user-attachments/assets/e87ed19b-7719-43c5-a9dc-bca0c41fd731)
+![image](https://github.com/user-attachments/assets/07795262-a1b7-4db2-adca-037773d928c5)
 
 ### 🏢 Sponsor
 https://runpod.io
