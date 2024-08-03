@@ -1,4 +1,4 @@
-# RunPod Templates
+### 🍇 RunPod Templates
 
 | Template | ComfyUI Workflow
 | --- | --- |
