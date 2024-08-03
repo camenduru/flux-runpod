@@ -6,7 +6,7 @@
 
 | Template | Workflow
 | --- | --- |
-[![open_in_runpod](https://github.com/user-attachments/assets/7ef86920-6913-4d0c-b32c-722c4402a3f4)](https://runpod.io/console/deploy?template=y1vexvzg7r&ref=iqi9iy8y) | [Flux.1-Dev.json](https://github.com/camenduru/runpod/blob/main/Flux.1-Dev-ComfyUI.json)
+[![open_in_runpod_small](https://github.com/user-attachments/assets/620c622a-fb34-4a0a-bd0c-16ff195c90e9)](https://runpod.io/console/deploy?template=y1vexvzg7r&ref=iqi9iy8y) | [Flux.1-Dev.json](https://github.com/camenduru/runpod/blob/main/Flux.1-Dev-ComfyUI.json)
 
 ### 🧬 Code
 https://github.com/black-forest-labs/flux
