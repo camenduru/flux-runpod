@@ -9,7 +9,10 @@
 [![open_in_runpod_small](https://github.com/user-attachments/assets/620c622a-fb34-4a0a-bd0c-16ff195c90e9)](https://runpod.io/console/deploy?template=y1vexvzg7r&ref=iqi9iy8y) | [Flux.1-Dev-ComfyUI.json](https://github.com/camenduru/flux-runpod/blob/main/Flux.1-Dev-ComfyUI.json)
 
 ### 🧬 Code
-https://github.com/black-forest-labs/flux
+https://github.com/black-forest-labs/flux <br />
+https://github.com/comfyanonymous/ComfyUI <br />
+https://github.com/ltdrdata/ComfyUI-Manager <br />
+https://github.com/ciri/comfyui-model-downloader <br />
 
 ### 🌐 Page
 https://blackforestlabs.ai/
