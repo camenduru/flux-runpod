@@ -16,7 +16,9 @@ USER camenduru
 RUN pip install -q opencv-python imageio imageio-ffmpeg ffmpeg-python av runpod \
     xformers==0.0.25 torchsde==0.2.6 einops==0.8.0 diffusers==0.28.0 transformers==4.41.2 accelerate==0.30.1
 
-RUN git clone https://github.com/comfyanonymous/ComfyUI /content/ComfyUI
+RUN git clone https://github.com/comfyanonymous/ComfyUI /content/ComfyUI && \
+    git clone https://github.com/ltdrdata/ComfyUI-Manager /content/ComfyUI/custom_nodes/ComfyUI-Manager && \
+    git clone https://github.com/ciri/comfyui-model-downloader /content/ComfyUI/custom_nodes/comfyui-model-downloader
 
 RUN aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/camenduru/FLUX.1-dev/resolve/main/flux1-dev.sft -d /content/ComfyUI/models/unet -o flux1-dev.sft && \
     aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/camenduru/FLUX.1-dev/resolve/main/ae.sft -d /content/ComfyUI/models/vae -o ae.sft && \
